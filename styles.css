@@ -14,16 +14,16 @@
   Ejemplo: --color-1: #8BD346;
 */
 :root {
-  --color-1: #E4007C;
-  --color-2: #FFC21A;
+  --color-1: #8BD346;
+  --color-2: #FF7A1A;
   --color-3: #00A6A6;
-  --cuerpo: #FFF6E5;
+  --cuerpo: #E4007C;
 }
 
 /* A partir de aquí no necesitas cambiar nada, pero puedes explorar */
 :root {
   --tinta: #2B1D14;
-  --pared: #FBF6EE;
+  --pared: #7A2AB8;
   --cal: #F8E3C4;
   --blanco: #FFFDF9;
   --barro: #C0673D;
